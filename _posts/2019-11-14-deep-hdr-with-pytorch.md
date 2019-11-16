@@ -2,15 +2,18 @@
 title: Deep HDR with pytorch
 layout: post
 date-made: Autumn 2017
-tag: jekyll
+tag: 
+- cv
+- supervised
+- pytorch
 headerImage: true
 projects: true
-hidden: true
+hidden: false
 description: Deep HDR with Pytorch project presentation
-category: project
+category: machinelearning
 author: philippemarcotte
 externalLink: https://github.com/PhilippeMarcotte/Deep-HDR-with-Pytorch
-order: 1
+order: 3
 ---
 
 The project consisted in reproducing the exiperiment describe in this [paper](http://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/) from 
