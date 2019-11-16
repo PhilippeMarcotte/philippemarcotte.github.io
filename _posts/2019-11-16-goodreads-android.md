@@ -1,6 +1,6 @@
 ---
 title: Goodreads Android Application
-date-made: Autumn 2016t
+date-made: Autumn 2016
 tag:
 - java
 - android
@@ -16,5 +16,3 @@ order: 3
 ---
 
 In my free time, I made an Android application that let a user browse his or her Goodreads library. I used the Goodreads REST API to do so.
-
----

@@ -25,7 +25,7 @@
 
 .home > .list,
 .blog > .list,
-.projects > .list
+.page > table > tbody > tr > td
     > .item
         display: block
         width: 95%
@@ -43,6 +43,11 @@
         font-weight: 500
         transition: all ease-in-out .2s
 
+    .tag
+        text-decoration: none
+        color: $alpha
+
+    .tag,
     > .item:hover > .url > .title
         color: $delta
 
@@ -62,8 +67,15 @@
     .item:hover .url aside
         color: $alpha
 
+td
+    vertical-align: top
+
+td,
+th
+    padding: 0 15px 0 15px
+
 .blog > .list > .item > .url,
-.projects > .list > .item > .url
+.projects > table > tr > td > .item > .url
     > .title
         display: inline
 

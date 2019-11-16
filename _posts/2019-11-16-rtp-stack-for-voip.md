@@ -13,9 +13,7 @@ description:
 category: software
 author: philippemarcotte
 externalLink:
-order: 3
+order: 4
 ---
 
-My last project during my undergrad studies consisted in developping an RTP Stack for testing purposes of a VoIP software made by the company Broadsoft. The code is under NDA.
-
----
+My last project during my undergrad studies consisted in developping an RTP Stack for testing a VoIP software made by the company Broadsoft. The code is under NDA.
