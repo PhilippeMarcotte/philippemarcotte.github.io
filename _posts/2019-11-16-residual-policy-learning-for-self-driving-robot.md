@@ -13,7 +13,7 @@ hidden: false
 description:
 category: machinelearning
 author: philippemarcotte
-externalLink: https://github.com/PhilippeMarcotte/challenge-aido_LF-baseline-RL-sim-pytorch
+externalLink: https://github.com/PhilippeMarcotte/challenge-aido_LF-baseline-duckietown
 order: 1
 ---
 
