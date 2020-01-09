@@ -70,7 +70,7 @@ layout: page
 
             <dt>Achievement</dt>
             <dd>
-				<h2><a href="google.com">AI Driving Olympics 3</a> <span>Neurips</span></h2>
+				<h2><a href="https://www.duckietown.org/research/ai-driving-olympics">AI Driving Olympics 3</a> <span>Neurips</span></h2>
 				<h4>December 2019</h4>
                 <ul>
                     <li>Winner of the Lane Following with other Vehicles category</li>
