@@ -26,7 +26,7 @@ layout: page
 <body>
     <div id="page-wrap">
         <div>
-            <p align="justify">I'm currently a professionnal master student in machine learning at Mila. I have also completed a bachelor's degree in software engineering at Polytechnique de Montreal. My main interest is working where software engineering meets machine learning and helping data scientists bring research to the industry. I'm also interested in everything cloud computing and cloud services in general.</p>
+            <p align="justify">I'm currently a professional master student in machine learning at Mila. I have also completed a bachelor's degree in software engineering at Polytechnique de Montreal. My main interest is working where software engineering meets machine learning and helping data scientists bring research to the industry. I'm also interested in everything cloud computing and cloud services in general.</p>
 
 			<p align="justify">I'm known for my resourcefulness particularly when it comes to find my way around new systems and learning new technologies. I'm a team player and mainly prefer working in team where we can bounce ideas off of each other.</p>
         </div>
@@ -63,6 +63,18 @@ layout: page
 				<h4>July 2015 - January 2016</h4>
                 <ul>
                     <li>Development of web scrapers for automatic data collection on clients' competitors.</li>
+                </ul>
+            </dd>
+			
+			<dd class="clear"></dd>
+
+            <dt>Achievement</dt>
+            <dd>
+				<h2><a href="google.com">AI Driving Olympics 3</a> <span>Neurips</span></h2>
+				<h4>December 2019</h4>
+                <ul>
+                    <li>Winner of the Lane Following with other Vehicles category</li>
+                    <li>Second place in the Lane Following category</li>
                 </ul>
             </dd>
             
