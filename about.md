@@ -97,11 +97,11 @@ layout: page
             
             <dt>Education</dt>
             <dd>
-                <h2>Professionnal Master of Machine Learning</h2>
+                <h2>Professionnal Master's Degree In Machine Learning</h2>
                 <p>Mila/Universite de Montreal<br>
 				Montreal, Canada &nbsp; May 2020</p>
 
-				<h2>Bachelor of Sofware Engineering</h2>
+				<h2>Bachelor's Degree In Sofware Engineering</h2>
                 <p>Polytechnique de Montreal <br>
 				Montreal, Canada &nbsp; 2018</p>
 
